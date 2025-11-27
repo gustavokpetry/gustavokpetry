@@ -40,18 +40,9 @@ Ainda estou em formação, mas já atuo como **Jovem Aprendiz / trainee focado e
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-02569B?style=for-the-badge&logo=pillow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B3E1?style=for-the-badge&logo=python&logoColor=white)
 ![UNet](https://img.shields.io/badge/U--Net-000000?style=for-the-badge&logo=ai&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF1493?style=for-the-badge&logo=ai&logoColor=white)
-![Vision Transformer](https://img.shields.io/badge/Vision--Transformer-292929?style=for-the-badge&logo=ai&logoColor=white)
 ![Autoencoders](https://img.shields.io/badge/Autoencoders-00549C?style=for-the-badge&logo=ai&logoColor=white)
 
 
