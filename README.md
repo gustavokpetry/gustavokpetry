@@ -9,41 +9,58 @@
 
 </div>
 
+## Modelos de ML
+
+<table width="100%">
+  <tr>
+    <th width="340" align="left">Modelo</th>
+    <th width="480" align="left">Tarefa</th>
+  </tr>
+  <tr><td><b>Simulação Antes → Depois</b></td><td>Gera o resultado do tratamento ortodôntico (Pix2Pix)</td></tr>
+  <tr><td><b>Detecção de Dentes</b></td><td>Localiza os dentes na foto do sorriso</td></tr>
+  <tr><td><b>Segmentação de Sorriso</b></td><td>Isola a região do sorriso</td></tr>
+  <tr><td><b>Contorno de Dentes (Stage 1)</b></td><td>Máscara de contorno dos dentes</td></tr>
+  <tr><td><b>Contorno de Dentes (Polígonos)</b></td><td>Contorno vetorial de cada dente</td></tr>
+  <tr><td><b>Split de Arcadas</b></td><td>Separa arcada superior e inferior</td></tr>
+  <tr><td><b>Alinhador de Contornos</b></td><td>Alinha os contornos dentários</td></tr>
+  <tr><td><b>Clareamento Dental</b></td><td>Recolore os dentes</td></tr>
+</table>
+
 ## Projetos
 
 <table width="100%">
   <tr>
-    <th width="320" align="left">Projeto</th>
-    <th width="160" align="left">Tipo</th>
-    <th width="340" align="left">Stack</th>
+    <th width="340" align="left">Projeto</th>
+    <th width="480" align="left">Stack</th>
   </tr>
-  <tr>
-    <td><b>Simulação Ortodôntica 2D</b></td>
-    <td>Clinicorp</td>
-    <td>Pix2Pix · U-Net · FastAPI</td>
-  </tr>
-  <tr>
-    <td><b>Tooth Editor</b></td>
-    <td>Clinicorp</td>
-    <td>anywidget · Konva.js</td>
-  </tr>
-  <tr>
-    <td><b>Encaixe 64</b></td>
-    <td>Pessoal</td>
-    <td>Jogo de puzzle</td>
-  </tr>
-  <tr>
-    <td><b>Neon Royale</b></td>
-    <td>Pessoal</td>
-    <td>Jogo multiplayer</td>
-  </tr>
+  <tr><td><b>Tooth Editor</b></td><td>anywidget · Konva.js</td></tr>
+  <tr><td><b>Encaixe 64</b></td><td>Jogo de puzzle</td></tr>
+  <tr><td><b>Neon Royale</b></td><td>Jogo multiplayer</td></tr>
 </table>
 
 ## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,flask,js,react,mysql,git,docker,linux,vscode,figma&theme=dark&perline=7" />
+**Arquiteturas**
+
+![U-Net](https://img.shields.io/badge/U--Net-D4A017?style=for-the-badge&logoColor=black)
+![Pix2Pix](https://img.shields.io/badge/Pix2Pix_GAN-D4A017?style=for-the-badge)
+![Autoencoders](https://img.shields.io/badge/Autoencoders-D4A017?style=for-the-badge)
+![Segmentação](https://img.shields.io/badge/Segmenta%C3%A7%C3%A3o_Sem%C3%A2ntica-D4A017?style=for-the-badge)
+
+**IA & Dados**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1A7F37?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A7F37?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1A7F37?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1A7F37?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1A7F37?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A7F37?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Deploy & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,githubactions,git,linux,js,react,vscode&theme=dark" />
 
 </div>
 
